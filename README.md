@@ -1,0 +1,1 @@
+# sku-renamed-as-product-id
